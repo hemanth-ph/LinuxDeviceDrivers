@@ -1,0 +1,1 @@
+cmd_/home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/Module.symvers := sed 's/\.ko$$/\.o/' /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/modules.order | scripts/mod/modpost -m -a  -o /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/Module.symvers -e -i Module.symvers   -T -
