@@ -1,1 +1,0 @@
-cmd_/home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/modules.order := {   echo /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/my_char_dev.ko; :; } | awk '!x[$$0]++' - > /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/modules.order

@@ -1,1 +1,0 @@
-cmd_/home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/my_char_dev.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/my_char_dev.ko /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/my_char_dev.o /home/hemanth/hemanth/ldd/custom-drivers/002_char_dev_basic/my_char_dev.mod.o;  true
